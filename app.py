@@ -52,5 +52,5 @@ k3.metric("📆 Días sin reporte", "3 días", "↑")
 # Footer
 st.markdown("""
 ---
-Aplicación demo desarrollada con [Streamlit](https://streamlit.io/) | Repositorio: [GitHub - AeroSustain](https://github.com/tuusuario/aerosustain-demo)
+Aplicación demo desarrollada con [Streamlit](https://streamlit.io/) | Repositorio: [GitHub - AeroSustain](https://github.com/jftamames/aerosustain-demo)
 """)
